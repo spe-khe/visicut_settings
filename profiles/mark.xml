@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vectorProfile version="0.0">
+  <DPI>500.0</DPI>
+  <description>engrave vector lines</description>
+  <name>mark</name>
+  <orderStrategy>NEAREST</orderStrategy>
+  <useOutline>false</useOutline>
+  <isCut>false</isCut>
+  <width>0.1</width>
+</vectorProfile>

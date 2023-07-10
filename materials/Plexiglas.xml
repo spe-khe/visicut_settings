@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description></description>
+  <thumbnailPath>Plexiglas.png</thumbnailPath>
+  <engraveColor>#ffffff</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#93e3e3</color>
+  <name>Plexiglas</name>
+  <materialThicknesses>
+    <float>1.6</float>
+    <float>2.85</float>
+  </materialThicknesses>
+</material>

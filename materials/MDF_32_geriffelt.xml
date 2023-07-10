@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <thumbnailPath>MDF_32_geriffelt.png</thumbnailPath>
+  <engraveColor>#7f662f</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#e6b156</color>
+  <name>MDF geriffelt</name>
+  <materialThicknesses>
+    <float>3.3</float>
+  </materialThicknesses>
+</material>

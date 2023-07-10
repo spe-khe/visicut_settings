@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <thumbnailPath>MDF_32_glatt.png</thumbnailPath>
+  <engraveColor>#8d6300</engraveColor>
+  <cutColor>#000000</cutColor>
+  <color>#e6b156</color>
+  <name>MDF glatt</name>
+  <materialThicknesses>
+    <float>3.0</float>
+    <float>6.0</float>
+  </materialThicknesses>
+</material>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<laserDevice version="0">
+  <originBottomLeft>false</originBottomLeft>
+  <jobSentText>Job was sent as '$jobname'
+Please:
+-Close the lid
+-Turn on the Ventilation
+-And press 'start' on the Lasercutter $name</jobSentText>
+  <jobPrefix>visicut </jobPrefix>
+  <laserCutter class="de.thomas_oster.liblasercut.drivers.EpilogZing">
+    <hostname>192.168.3.4</hostname>
+    <port>515</port>
+    <autofocus>false</autofocus>
+    <hideSoftwareFocus>false</hideSoftwareFocus>
+    <bedWidth>400.0</bedWidth>
+    <bedHeight>300.0</bedHeight>
+  </laserCutter>
+  <cameraHomography>
+    <referencePoints>
+      <java.awt.geom.Point2D_-Double>
+        <x>80.0</x>
+        <y>60.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>320.0</x>
+        <y>240.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>320.0</x>
+        <y>60.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>80.0</x>
+        <y>240.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>200.0</x>
+        <y>60.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>200.0</x>
+        <y>240.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>120.0</x>
+        <y>150.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>280.0</x>
+        <y>150.0</y>
+      </java.awt.geom.Point2D_-Double>
+    </referencePoints>
+    <viewPoints>
+      <java.awt.geom.Point2D_-Double>
+        <x>831.6</x>
+        <y>467.6</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>3326.4</x>
+        <y>1870.4</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>3326.4</x>
+        <y>467.6</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>831.6</x>
+        <y>1870.4</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>2079.0</x>
+        <y>467.6</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>2079.0</x>
+        <y>1870.4</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>1247.3999999999999</x>
+        <y>1169.0</y>
+      </java.awt.geom.Point2D_-Double>
+      <java.awt.geom.Point2D_-Double>
+        <x>2910.6</x>
+        <y>1169.0</y>
+      </java.awt.geom.Point2D_-Double>
+    </viewPoints>
+    <homography>
+      <A>
+        <double-array>
+          <double>-0.7977481263886189</double>
+          <double>6.435924961143059E-13</double>
+          <double>-2.774035649510402E-10</double>
+        </double-array>
+        <double-array>
+          <double>1.0487330731981666E-12</double>
+          <double>-0.5980872597392437</double>
+          <double>-3.3131606961610684E-10</double>
+        </double-array>
+        <double-array>
+          <double>5.54133978378023E-16</double>
+          <double>3.0961151866563156E-16</double>
+          <double>-0.0767434465023003</double>
+        </double-array>
+      </A>
+      <m>3</m>
+      <n>3</n>
+    </homography>
+  </cameraHomography>
+  <cameraURL></cameraURL>
+  <cameraTiming>0</cameraTiming>
+  <projectorTiming>0</projectorTiming>
+  <projectorWidth>0</projectorWidth>
+  <projectorHeight>0</projectorHeight>
+  <thumbnailPath>Epilog_32_ZING.png</thumbnailPath>
+  <description>Epilog Zing 6030 in room 2214</description>
+  <name>Epilog ZING</name>
+</laserDevice>
