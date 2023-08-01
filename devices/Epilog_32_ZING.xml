@@ -107,12 +107,12 @@ Please:
       <n>3</n>
     </homography>
   </cameraHomography>
-  <cameraURL></cameraURL>
+  <cameraURL>http://192.168.3.7/pic.jpg</cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
   <projectorHeight>0</projectorHeight>
   <thumbnailPath>Epilog_32_ZING.png</thumbnailPath>
-  <description>Epilog Zing 6030 in room 2214</description>
+  <description></description>
   <name>Epilog ZING</name>
 </laserDevice>
