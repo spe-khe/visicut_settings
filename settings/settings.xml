@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <visicutPreferences version="0">
-  <defaultMapping>LayerCutMarkEngrave</defaultMapping>
+  <defaultMapping>cut everything</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>true</useFilenamesForJobs>
   <labName>Innovationswerkstatt</labName>
