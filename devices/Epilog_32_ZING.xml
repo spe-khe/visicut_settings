@@ -13,8 +13,8 @@ Please:
     <port>515</port>
     <autofocus>false</autofocus>
     <hideSoftwareFocus>false</hideSoftwareFocus>
-    <bedWidth>400.0</bedWidth>
-    <bedHeight>300.0</bedHeight>
+    <bedWidth>406.0</bedWidth>
+    <bedHeight>305.0</bedHeight>
   </laserCutter>
   <cameraHomography>
     <referencePoints>
