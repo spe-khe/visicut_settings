@@ -19,72 +19,72 @@ Please:
   <cameraHomography>
     <referencePoints>
       <java.awt.geom.Point2D_-Double>
-        <x>80.0</x>
-        <y>60.0</y>
+        <x>81.2</x>
+        <y>61.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>320.0</x>
-        <y>240.0</y>
+        <x>324.8</x>
+        <y>244.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>320.0</x>
-        <y>60.0</y>
+        <x>324.8</x>
+        <y>61.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>80.0</x>
-        <y>240.0</y>
+        <x>81.2</x>
+        <y>244.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>200.0</x>
-        <y>60.0</y>
+        <x>203.0</x>
+        <y>61.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>200.0</x>
-        <y>240.0</y>
+        <x>203.0</x>
+        <y>244.0</y>
       </java.awt.geom.Point2D_-Double>
     </referencePoints>
     <viewPoints>
       <java.awt.geom.Point2D_-Double>
-        <x>751.0</x>
-        <y>626.0</y>
+        <x>753.0</x>
+        <y>633.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1909.0</x>
-        <y>1481.0</y>
+        <x>1932.0</x>
+        <y>1504.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1944.0</x>
-        <y>629.0</y>
+        <x>1969.0</x>
+        <y>635.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>782.0</x>
-        <y>1477.0</y>
+        <x>784.0</x>
+        <y>1502.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1348.0</x>
-        <y>630.0</y>
+        <x>1361.0</x>
+        <y>635.0</y>
       </java.awt.geom.Point2D_-Double>
       <java.awt.geom.Point2D_-Double>
-        <x>1345.0</x>
-        <y>1477.0</y>
+        <x>1359.0</x>
+        <y>1501.0</y>
       </java.awt.geom.Point2D_-Double>
     </viewPoints>
     <homography>
       <A>
         <double-array>
-          <double>-0.01091598819637783</double>
-          <double>-9.327574315925901E-4</double>
-          <double>-0.7232675314254243</double>
+          <double>-0.011130851242233857</double>
+          <double>-9.465649800947648E-4</double>
+          <double>-0.7159946112964111</double>
         </double-array>
         <double-array>
-          <double>-2.3699425879493026E-5</double>
-          <double>-0.01143794837825155</double>
-          <double>-0.6903829137045683</double>
+          <double>-2.4044171404062526E-5</double>
+          <double>-0.01165327854053305</double>
+          <double>-0.6979157236296057</double>
         </double-array>
         <double-array>
-          <double>8.87254148486728E-9</double>
-          <double>-7.14476427903406E-7</double>
-          <double>-0.002157403660886046</double>
+          <double>-4.919969426711339E-9</double>
+          <double>-7.208539481673063E-7</double>
+          <double>-0.002183572998550348</double>
         </double-array>
       </A>
       <m>3</m>
