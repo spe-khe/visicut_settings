@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <thumbnailPath>Edelstahl_32_ohne_32_Transferband.png</thumbnailPath>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#e7e7e7</cutColor>
+  <color>#e7e7e7</color>
+  <name>Edelstahl ohne Transferband</name>
+  <materialThicknesses>
+    <float>0.0</float>
+  </materialThicknesses>
+</material>
