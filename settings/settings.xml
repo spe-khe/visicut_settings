@@ -4,14 +4,7 @@
   <defaultMapping>cut everything</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>true</useFilenamesForJobs>
-  <labName>Innovationswerkstatt</labName>
-  <enableQRCodes>false</enableQRCodes>
-  <fastQRCodes>false</fastQRCodes>
-  <fabqrActive>false</fabqrActive>
-  <fabqrPrivateURL></fabqrPrivateURL>
-  <fabqrPublicURL></fabqrPublicURL>
-  <fabqrPrivateUser></fabqrPrivateUser>
-  <fabqrPrivatePassword></fabqrPrivatePassword>
+  <mkbitmapPath>mkbitmap</mkbitmapPath>
   <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
   <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
